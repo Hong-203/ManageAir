@@ -1,0 +1,17 @@
+E:\dahp_hong\dbQLHK\bin\Debug\dbQLHK.exe.config
+E:\dahp_hong\dbQLHK\bin\Debug\dbQLHK.exe
+E:\dahp_hong\dbQLHK\bin\Debug\dbQLHK.pdb
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.csproj.AssemblyReference.cache
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.Properties.Resources.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.csproj.GenerateResource.cache
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.csproj.CoreCompileInputs.cache
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.exe
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.pdb
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.frm_ChuyenBay.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.frm_HanhKhach.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.frm_CTCBay.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.dvb.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.frm_DViBay.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.frm_PhiCong.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.frm_PageLogin.resources
+E:\dahp_hong\dbQLHK\obj\Debug\dbQLHK.frm_Home.resources
